@@ -1,5 +1,4 @@
-# random_projects
+# Side Projects
 
-A random repository for weird and random projects I think of!
-Hopefully future me comes back and finds the "strangeness" and 
-possibly "stupidity" of these projects amusing!
+A repository for weird and random projects I think of!
+Hopefully future me comes back and finds the "strangeness" of these projects amusing!
